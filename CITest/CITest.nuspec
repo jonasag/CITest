@@ -10,7 +10,6 @@
   </metadata>
   <files>
     <file src="bin\CITest*" target="bin" />
-    <file src="App_Config\**" target="app_config\"/>
     <file src="views\**" target="views\" />
 	</files>
 </package>
