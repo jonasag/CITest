@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
@@ -13,4 +14,20 @@
     <file src="App_Config\**" target="app_config\"/>
     <file src="views\**" target="views\" />
 	</files>
+=======
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CITest</id>
+    <version>0.1.0</version>
+    <authors>Jonas</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CITest - This library contains components related to CITest</description>
+    <tags>Jonas Platform</tags>
+  </metadata>
+  <files>
+    <file src="bin\CITest*" target="bin" />
+    <file src="views\**" target="views\" />
+	</files>
+>>>>>>> cbcb79c5632682a641fd0abbe6b1affc256d9dce
 </package>
