@@ -16,7 +16,7 @@ namespace CITest.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description test test 2 page.";
+            ViewBag.Message = "Your application description test test 2 page let see.";
 
             return View();
         }
